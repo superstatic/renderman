@@ -1,0 +1,11 @@
+{
+  "name": "renderman",
+  "version": "1.0.0",
+  "description": "Fast html, css, js renderer.",
+  "main": "index.js",
+  "author": "George Karalis",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
