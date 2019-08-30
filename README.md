@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/docs/assets/renderman_logo.png" width="128" alt="RenderMan Logo"/>
+</p>
+
 # Superstatic RenderMan
 
 Superstatic RenderMan is a fast html, css, js renderer, using a puppeteer backend. RenderMan's main purpose is to render web content. The rendered content may be a static site, a React app etc. In that fashion RenderMan can be used as a static site generator, for server side rendering or for visual regression testing aswell. Through an elegant api RenderMan is a flexible renderer for the web.
