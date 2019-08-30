@@ -6,6 +6,7 @@
   "author": "George Karalis",
   "license": "MIT",
   "devDependencies": {
-    "puppeteer": "^1.19.0"
+    "puppeteer": "^1.19.0",
+    "rxjs": "^6.5.2"
   }
 }
